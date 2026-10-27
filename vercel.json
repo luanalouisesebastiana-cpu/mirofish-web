@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/api/:path*", "destination": "https://583pwm.instatunnel.my/api/:path*" }
-  ]
-}
